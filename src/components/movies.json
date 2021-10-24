@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "image":"https://m.media-amazon.com/images/M/MV5BOTVhMzYxNjgtYzYwOC00MGIwLWJmZGEtMjgwMzgxMWUwNmRhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+        "title":"Bell bottom",
+        "acotr":"Akshay kumar"
+    },
+        {
+        "id":2,
+        "image":"https://m.media-amazon.com/images/M/MV5BOTVhMzYxNjgtYzYwOC00MGIwLWJmZGEtMjgwMzgxMWUwNmRhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+        "title":"Sell bottom",
+        "acotr":"Tummy kumar"
+    },
+        {
+        "id":3,
+        "image":"https://m.media-amazon.com/images/M/MV5BOTVhMzYxNjgtYzYwOC00MGIwLWJmZGEtMjgwMzgxMWUwNmRhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+        "title":"Jell bottom",
+        "acotr":"javi kumar"
+    },
+        {
+        "id":4,
+        "image":"https://m.media-amazon.com/images/M/MV5BOTVhMzYxNjgtYzYwOC00MGIwLWJmZGEtMjgwMzgxMWUwNmRhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+        "title":"Rell bottom",
+        "acotr":"Savi kumar"
+    },
+        {
+        "id":5,
+        "image":"https://m.media-amazon.com/images/M/MV5BOTVhMzYxNjgtYzYwOC00MGIwLWJmZGEtMjgwMzgxMWUwNmRhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+        "title":"Nell bottom",
+        "acotr":"Ravi kumar"
+    },
+    {
+        "id":6,
+        "image":"https://m.media-amazon.com/images/M/MV5BOTVhMzYxNjgtYzYwOC00MGIwLWJmZGEtMjgwMzgxMWUwNmRhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+        "title":"rell bottom",
+        "acotr":"Ravi kumar"
+    },
+    {
+        "id":7,
+        "image":"https://m.media-amazon.com/images/I/81MTnbVuX-L._SL1500_.jpg",
+        "title":"Bahubali 2 ",
+        "acotr":"Prabhas "
+    }
+]
